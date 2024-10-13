@@ -1,5 +1,5 @@
 #  Chatting Application Project
- Chat Application is built using Java Swing, AWT, and Socket programming.
+ <h4>Chat Application is built using Java Swing, AWT, and Socket programming.</h4>
 
 # 📦 Features
 - Real-Time Messaging
